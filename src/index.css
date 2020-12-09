@@ -34,10 +34,14 @@ header{
   color: rgb(139, 238, 205);
   display: flex;
   align-items: center;
-  padding: 0.5rem;
+  padding: 0.5rem 1.8rem;
 }
 header a{
-  color: rgb(228, 152, 215);
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 0.1cm;
+  text-transform: uppercase;
+  color: rgb(233, 245, 72);
   text-decoration: none;
 }
 main{
@@ -104,6 +108,7 @@ footer{
 }
 .button{
   padding: 1rem;
+  border-radius: 8px;
   border: 0.1rem solid #c0c0c0;
   background-color: beige;
   cursor: pointer;
@@ -112,5 +117,18 @@ footer{
   border: 0.1rem solid #808080;
 }
 .button.primary{
-  background-color: chocolate;
+  background-color: rgb(13, 245, 245);
+}
+
+/*Filter*/
+
+.filter{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  margin: 1rem;
+  border-bottom: 0.1rem solid #c0c0c0;
+}
+.filter div{
+  flex: 1;
 }

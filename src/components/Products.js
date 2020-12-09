@@ -28,6 +28,6 @@ export default class products extends Component {
                     ))}
                 </ul>
             </div>
-        )
+        );
     }
 }

@@ -19,7 +19,7 @@ body,input,select,button,textarea{
   grid-template-areas: "header" 
   "main"
   "footer";
-  grid-template-rows: 5rem 1fr 5rem;/* 1 rem=10px,5rem=50px ...1fr=1fragment */
+  grid-template-rows: 6rem 1fr 7rem;/* 1 rem=10px,5rem=50px ...1fr=1fragment */
   grid-template-columns: 1fr;
 }
 a{
@@ -130,5 +130,48 @@ footer{
   border-bottom: 0.1rem solid #c0c0c0;
 }
 .filter div{
+  flex: 1;
+}
+
+/*Cart-Component*/
+.cart{
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+}
+.cart-header{
+  border-bottom: 0.1rem solid #c0c0c0;
+}
+.cart-items{
+  padding: 0;
+  width: 100%;
+  list-style-type: none;
+}
+.cart-items img{
+  width: 5rem;
+}
+.cart-items li{
+  display: flex;
+}
+.cart-items li div{
+  padding: .5rem;
+}
+.cart-items li div:last-child{
+  flex: 1;
+}
+.right{
+  text-align: right;
+}
+.total{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  width: 100%;
+}
+.total > div{
+  font-size: 2rem;
+}
+.total > div,
+.total >button{
   flex: 1;
 }

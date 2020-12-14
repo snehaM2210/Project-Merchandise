@@ -4,7 +4,7 @@
             "_id": "dress1",
             "image": "/images/dress1.jpg",
             "title": "Dress 1",
-            "description": "about dress 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, soluta! Culpa non, atque voluptatibus consequatur odio numquam totam omnis exercitationem neque expedita maiores corrupti ad obcaecati iure dolore quisquam maxime.",
             "availableSizes":["L","XL","XXL"],
             "price": 19
         },
@@ -12,7 +12,7 @@
             "_id": "dress2",
             "image": "/images/dress2.jpg",
             "title": "Dress 2",
-            "description": "about dress 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, soluta! Culpa non, atque voluptatibus consequatur odio numquam totam omnis exercitationem neque expedita maiores corrupti ad obcaecati iure dolore quisquam maxime.",
             "availableSizes":["XS","S","M","XXL"],
             "price": 22
         },
@@ -20,7 +20,7 @@
             "_id": "dress3",
             "image": "/images/dress3.jpg",
             "title": "Dress 3",
-            "description": "about dress 3",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, soluta! Culpa non, atque voluptatibus consequatur odio numquam totam omnis exercitationem neque expedita maiores corrupti ad obcaecati iure dolore quisquam maxime.",
             "availableSizes":["M","L","XL"],
             "price": 17
         },     
@@ -28,7 +28,7 @@
             "_id": "dress4",
             "image": "/images/dress4.jpg",
             "title": "Dress 4",
-            "description": "about dress 4",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, soluta! Culpa non, atque voluptatibus consequatur odio numquam totam omnis exercitationem neque expedita maiores corrupti ad obcaecati iure dolore quisquam maxime.",
             "availableSizes":["XS","S","M","XL"],
             "price": 20
         },  
@@ -36,7 +36,7 @@
             "_id": "dress5",
             "image": "/images/dress5.jpg",
             "title": "Dress 5",
-            "description": "about dress 5",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, soluta! Culpa non, atque voluptatibus consequatur odio numquam totam omnis exercitationem neque expedita maiores corrupti ad obcaecati iure dolore quisquam maxime.",
             "availableSizes":["S","L","XL"],
             "price": 18
         },  
@@ -44,7 +44,7 @@
             "_id": "dress6",
             "image": "/images/dress6.jpg",
             "title": "Dress 6",
-            "description": "about dress 6",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, soluta! Culpa non, atque voluptatibus consequatur odio numquam totam omnis exercitationem neque expedita maiores corrupti ad obcaecati iure dolore quisquam maxime.",
             "availableSizes":["XS","S","L","XL","XXL"],
             "price": 21
         }  

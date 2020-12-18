@@ -10,7 +10,7 @@ mongoose.connect("mongodb://localhost/react-merchandise-db",{
     useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true,
-});
+}); 
 
 const Product = mongoose.model(
     "products", 
